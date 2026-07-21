@@ -1,0 +1,20 @@
+{
+  "site_name": "Indus Academy & Testing Services",
+  "short_name": "Indus Academy",
+  "city": "Sukkur, Sindh",
+  "tagline": "Sukkur's testing ground for the students who refuse to be average.",
+  "phone": "+92 3XX XXXXXXX",
+  "email": "info@iatssindh.com",
+  "external_links": {
+    "mdcat": "https://mdcat.pmc.gov.pk/",
+    "iba_phase2": "https://www.iba-suk.edu.pk/admission-test",
+    "aror_university": "https://aror.edu.pk/"
+  },
+  "nav": [
+    { "label": "Home", "href": "index.html" },
+    { "label": "MDCAT Prep", "href": "index.html#programs" },
+    { "label": "IBA Phase II", "href": "index.html#programs" },
+    { "label": "Blog", "href": "blog.html" },
+    { "label": "Verify Certificate", "href": "verify.html" }
+  ]
+}
